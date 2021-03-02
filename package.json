@@ -1,0 +1,21 @@
+{
+  "name": "matrix-module-node",
+  "version": "1.0.1",
+  "description": "A simple matrix library, very useful for neural networks",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "matrix",
+    "neural",
+    "network",
+    "machine",
+    "learning",
+    "array",
+    "js"
+  ],
+  "author": "SatvikVejendla",
+  "license": "ISC"
+}
