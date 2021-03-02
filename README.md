@@ -68,3 +68,12 @@ arr           |  The array that you want to convert to a matrix | Yes
 ```m.toArray()```
 
 Converts an existing matrix called "m" into an array with respective rows and columns.
+
+
+```m.table()```
+
+Prints the matrix values in a neat way in the terminal
+
+```m.info()```
+
+Gives you info about the number of rows and columns. Used for debugging when multiplication of 2 matrices doesn't work
